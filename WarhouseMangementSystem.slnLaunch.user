@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "UI\\UI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ManageDatabase\\ManageDatabase.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
